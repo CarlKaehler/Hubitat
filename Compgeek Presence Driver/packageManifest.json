@@ -1,14 +1,14 @@
 {
   "packageName": "Compgeek Presence Driver",
   "author": "Carl Kaehler",
-  "minimumHEVersion": "2.3.0",
+  "minimumHEVersion": "2.1.9",
   "dateReleased": "2022-01-01",
   "drivers": [
     {
       "id": "01252be2-a1c3-4d99-8c9c-d8c6334c99c0",
       "name": "Compgeek Presence Driver",
       "namespace": "Compgeek",
-      "location": "https://raw.githubusercontent.com/CarlKaehler/CompgeekPresence/master/CompgeekPresence.groovy",
+      "location": "https://raw.githubusercontent.com/CarlKaehler/Hubitat/master/Compgeek%20Presence%20Driver/CompgeekPresenceDriver.groovy",
       "required": true,
       "version": "1.0.3"
     }

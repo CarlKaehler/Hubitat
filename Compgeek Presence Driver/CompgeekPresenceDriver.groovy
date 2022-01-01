@@ -1,5 +1,5 @@
 /**
- *  ****************  Multi Facet Presence Driver  ****************
+ *  ****************  Compgeek Presence Driver  ****************
  *
  *  Design Usage:
  *  This driver is used for room occupancy, shows presence and works with on/off
