@@ -53,6 +53,17 @@
         "Lights & Switches",
         "Voice Assistants"
       ]
+    },
+    {
+      "id": "4fb81521-fd63-4073-a42b-59ca04038297",
+      "name": "Smart Humidity Switch",
+      "category": "Convenience",
+      "location": "https://raw.githubusercontent.com/CarlKaehler/Hubitat/master/Smart%20Humidity%20Fan/packageManifest.json",
+      "description": "Control a fan via Humidity Sensor",
+      "tags": [
+        "Bathroom",
+        "Temperature & Humidity"
+      ]
     }
   ]
 }
