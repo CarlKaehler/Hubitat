@@ -11,6 +11,16 @@
       "tags": [
         "Vehicles & Transportation"
       ]
+    },
+    {
+      "id": "c2ef777c-fb03-4f6d-ab8c-83002398c787",
+      "name": "Date Manager",
+      "category": "Convenience",
+      "location": "https://raw.githubusercontent.com/CarlKaehler/Hubitat/master/Date%20Manager/packageManifest.json",
+      "description": "Remember Important Dates",
+      "tags": [
+        "Dashboards"
+      ]
     }
   ]
 }

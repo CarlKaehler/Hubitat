@@ -1,0 +1,60 @@
+{
+  "packageName": "Hubconnect Netatmo Client",
+  "author": "Carl Kaehler",
+  "minimumHEVersion": "2.1.9",
+  "dateReleased": "2022-01-01",
+  "apps": [
+    {
+      "id": "b7fdbccc-e671-42d6-9034-73e89258466a",
+      "name": "HubConnect Netatmo Client",
+      "namespace": "Compgeek",
+      "location": "https://raw.githubusercontent.com/CarlKaehler/Hubitat/master/Hubconnect%20Netatmo%20Client/HubconnectNetatmoClient.groovy",
+      "required": true,
+      "oauth": true,
+      "primary": true,
+      "version": "1.0.2"
+    }
+  ],
+  "drivers": [
+    {
+      "id": "7cd9031d-ada5-4052-9e24-f25cbe200d0c",
+      "name": "HubConnect Netatmo Additional Module",
+      "namespace": "Compgeek",
+      "location": "https://raw.githubusercontent.com/CarlKaehler/Hubitat/master/Hubconnect%20Netatmo%20Client/HubconnectNetatmoAdditionalModule.groovy",
+      "required": true,
+      "version": "1.0.0"
+    },
+    {
+      "id": "95326f9d-6b73-4968-af96-538c1e11ceb5",
+      "name": "HubConnect Netatmo Basestation",
+      "namespace": "Compgeek",
+      "location": "https://raw.githubusercontent.com/CarlKaehler/Hubitat/master/Hubconnect%20Netatmo%20Client/HubconnectNetatmoBasestation.groovy",
+      "required": true,
+      "version": "1.0.0"
+    },
+    {
+      "id": "7de72fe7-7e3a-48e5-b5ef-68b74f3a104b",
+      "name": "HubConnect Netatmo Outdoor Module",
+      "namespace": "Compgeek",
+      "location": "https://raw.githubusercontent.com/CarlKaehler/Hubitat/master/Hubconnect%20Netatmo%20Client/HubconnectNetatmoOutdoorModule.groovy",
+      "required": true,
+      "version": "1.0.0"
+    },
+    {
+      "id": "38470ac1-c610-4817-b152-7efc4f2bae02",
+      "name": "HubConnect Netatmo Rain",
+      "namespace": "Compgeek",
+      "location": "https://raw.githubusercontent.com/CarlKaehler/Hubitat/master/Hubconnect%20Netatmo%20Client/HubconnectNetatmoRain.groovy",
+      "required": true,
+      "version": "1.0.0"
+    },
+    {
+      "id": "b66ddf6f-d289-4d92-87ab-cf114de3b3a1",
+      "name": "HubConnect Netatmo Wind",
+      "namespace": "Compgeek",
+      "location": "https://raw.githubusercontent.com/CarlKaehler/Hubitat/master/Hubconnect%20Netatmo%20Client/HubconnectNetatmoWind.groovy",
+      "required": true,
+      "version": "1.0.0"
+    }
+  ]
+}
