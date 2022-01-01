@@ -1,0 +1,16 @@
+{
+  "author": "Carl Kaehler",
+  "gitHubUrl": "https://github.com/CarlKaehler",
+  "packages": [
+    {
+      "id": "5b4282c6-ac61-408a-b67f-2b3fc9ae2697",
+      "name": "Commute Time",
+      "category": "Convenience",
+      "location": "https://raw.githubusercontent.com/CarlKaehler/Hubitat/master/Commute%20Time/packageManifest.json",
+      "description": "App to use lighting to advise of adverse travel times",
+      "tags": [
+        "Vehicles & Transportation"
+      ]
+    }
+  ]
+}

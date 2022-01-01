@@ -1,0 +1,38 @@
+{
+  "packageName": "Date Manager",
+  "author": "Carl Kaehler",
+  "minimumHEVersion": "2.1.9",
+  "dateReleased": "2022-01-01",
+  "apps": [
+    {
+      "id": "33f40c87-9f24-481e-97a5-7f7e8acc6596",
+      "name": "Date Manager",
+      "namespace": "Compgeek",
+      "location": "https://raw.githubusercontent.com/CarlKaehler/Hubitat/master/Date%20Manager/DateManager-Parent.groovy",
+      "required": true,
+      "oauth": false,
+      "primary": true,
+      "version": "1.0.0"
+    },
+    {
+      "id": "29542f23-4348-45b9-ba73-31f3a246bf95",
+      "name": "Date Manager Child",
+      "namespace": "Compgeek",
+      "location": "https://raw.githubusercontent.com/CarlKaehler/Hubitat/master/Date%20Manager/DateManager-Child.groovy",
+      "required": true,
+      "oauth": false,
+      "primary": false,
+      "version": "1.0.0"
+    }
+  ],
+  "drivers": [
+    {
+      "id": "3d9de89d-f364-45fa-9e7b-27469a15b4a4",
+      "name": "Date Manager Driver",
+      "namespace": "Compgeek",
+      "location": "https://raw.githubusercontent.com/CarlKaehler/Hubitat/master/Date%20Manager/DateManager-Driver.groovy",
+      "required": true,
+      "version": "1.0.0"
+    }
+  ]
+}
