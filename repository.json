@@ -31,6 +31,28 @@
       "tags": [
         "Weather"
       ]
+    },
+    {
+      "id": "c5dc3014-9e6e-4c05-abe1-9e580b70f9bb",
+      "name": "Compgeek Presence Driver",
+      "category": "Convenience",
+      "location": "https://raw.githubusercontent.com/CarlKaehler/Hubitat/master/Compgeek%20Presence%20Driver/packageManifest.json",
+      "description": "Presence Driver that also acts as Switch",
+      "tags": [
+        "Lights & Switches",
+        "Presence & Location"
+      ]
+    },
+    {
+      "id": "6ecc7be8-9dc4-4db2-8a7f-23096711291f",
+      "name": "Virtual Alexa Contact Switch",
+      "category": "Convenience",
+      "location": "https://raw.githubusercontent.com/CarlKaehler/Hubitat/master/Virtual%20Alexa%20Contact%20Switch/packageManifest.json",
+      "description": "On/Off - Open/Closed for Alexa",
+      "tags": [
+        "Lights & Switches",
+        "Voice Assistants"
+      ]
     }
   ]
 }
