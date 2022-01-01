@@ -1,0 +1,28 @@
+{
+  "packageName": "Commute Time",
+  "author": "Carl Kaehler",
+  "minimumHEVersion": "2.3.0",
+  "dateReleased": "2021-12-31",
+  "apps": [
+    {
+      "id": "f9d33b72-6dd3-436e-b12a-db7579343331",
+      "name": "Commute Time",
+      "namespace": "Compgeek",
+      "location": "https://raw.githubusercontent.com/CarlKaehler/CommuteTime/master/CommuteTime-Parent.groovy",
+      "required": true,
+      "oauth": false,
+      "primary": false,
+      "version": "1.0.0"
+    },
+    {
+      "id": "6dcfeb5f-cb9d-41c9-b3f6-a9a26c1d3e8d",
+      "name": "Commute Time Child",
+      "namespace": "Compgeek",
+      "location": "https://raw.githubusercontent.com/CarlKaehler/CommuteTime/master/CommuteTime-Child.groovy",
+      "required": true,
+      "oauth": false,
+      "primary": false,
+      "version": "1.0.0"
+    }
+  ]
+}

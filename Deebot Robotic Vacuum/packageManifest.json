@@ -1,0 +1,16 @@
+{
+  "packageName": "Deebot",
+  "author": "Carl Kaehler",
+  "minimumHEVersion": "2.3.0",
+  "dateReleased": "2022-01-01",
+  "drivers": [
+    {
+      "id": "1bf576a2-5fca-4887-a378-88132a0abad5",
+      "name": "Deebot Robotic Vacuum",
+      "namespace": "Compgeek",
+      "location": "https://raw.githubusercontent.com/CarlKaehler/Deebot/master/Deebot.groovy",
+      "required": true,
+      "version": "1.0.1"
+    }
+  ]
+}
