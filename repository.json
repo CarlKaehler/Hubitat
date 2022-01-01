@@ -21,6 +21,16 @@
       "tags": [
         "Dashboards"
       ]
+    },
+    {
+      "id": "dda34766-aad0-47e8-b05a-00bbb5519840",
+      "name": "Hubconnect Netatmo Client",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/CarlKaehler/Hubitat/master/Hubconnect%20Netatmo%20Client/packageManifest.json",
+      "description": "Hubconnect Weather Station",
+      "tags": [
+        "Weather"
+      ]
     }
   ]
 }
