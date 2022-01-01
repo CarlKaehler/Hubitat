@@ -1,3 +1,5 @@
+public static String version() { return "1.0.1" }
+
 metadata {
 	definition (name: "Virtual Alexa Contact Switch", namespace: "Compgeek", author: "Carl Kaehler") {
 		capability "Sensor"

@@ -1,0 +1,16 @@
+{
+  "packageName": "Virtual Alexa Contact Switch",
+  "author": "Carl Kaehler",
+  "minimumHEVersion": "2.1.9",
+  "dateReleased": "2022-01-01",
+  "drivers": [
+    {
+      "id": "ccad4c21-99a2-479f-805d-132fc0fc06e4",
+      "name": "Virtual Alexa Contact Switch",
+      "namespace": "Compgeek",
+      "location": "https://raw.githubusercontent.com/CarlKaehler/Hubitat/master/Virtual%20Alexa%20Contact%20Switch/VirtualAlexaContactSwitch-Driver.groovy",
+      "required": true,
+      "version": "1.0.0"
+    }
+  ]
+}
