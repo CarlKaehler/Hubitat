@@ -64,6 +64,16 @@
         "Bathroom",
         "Temperature & Humidity"
       ]
+    },
+    {
+      "id": "d570c467-aa5a-4ec5-a6cb-707d6b005899",
+      "name": "Garmin Connect",
+      "category": "Convenience",
+      "location": "https://raw.githubusercontent.com/CarlKaehler/Hubitat/master/GarminConnect/packageManifest.json",
+      "description": "Device Driver to Hold Garmin Connect Data",
+      "tags": [
+        "Health & Fitness"
+      ]
     }
   ]
 }
