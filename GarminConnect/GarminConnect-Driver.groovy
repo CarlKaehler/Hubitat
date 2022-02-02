@@ -7,6 +7,9 @@ metadata {
 
         attribute "goal", "number"
         attribute "steps", "number"
+
+        command "setGoal", ["number"]
+        command "setSteps", ["number"]
 	}   
 }
 
@@ -19,4 +22,6 @@ def setSteps(val) {
 }
 
 def installed() {
+    sendEvent(name: "goal", value: 0)
+    sendEvent(name: "steps", value: 0)
 }
