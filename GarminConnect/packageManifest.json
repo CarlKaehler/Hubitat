@@ -1,0 +1,16 @@
+{
+  "packageName": "Garmin Connect",
+  "author": "Carl Kaehler",
+  "minimumHEVersion": "2.1.9",
+  "dateReleased": "2022-02-01",
+  "drivers": [
+    {
+      "id": "05e20a67-4d64-4059-b9ee-a202d44fc62c",
+      "name": "Garmin Connect Device Driver",
+      "namespace": "Compgeek",
+      "location": "https://raw.githubusercontent.com/CarlKaehler/Hubitat/master/GarminConnect/GarminConnect-Driver.groovy",
+      "required": true,
+      "version": "1.0.1"
+    }
+  ]
+}
